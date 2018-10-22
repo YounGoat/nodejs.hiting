@@ -1,0 +1,13 @@
+
+NAME
+    hiting - Parse plain text and print colorful text.
+
+SYNOPSIS
+    hiting --file <pathname> --style <style>
+
+OPTIONS
+    --file|-f <pathname>
+    Path of plain text (.txt) file.
+
+    --style <style>
+    Style indicating how to understand the plain text.
